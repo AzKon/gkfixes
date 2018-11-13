@@ -20,7 +20,7 @@
 
 * **Daemon-slayer** - Daemons cannot take Invulnerable Saves against attacks made by your Warlord. In addition, damage done by your Warlord cannot be prevented, ignored or passed off in any way if the target is a *Daemon** (For example, damage done cannot be ignored by rules like Disgustingly Resilient). 
 
-*Lore Master - Your Warlord may take one additional Psychic Power from the *Sanctic* or *Librarius* Discipline.
+* **Lore Master** - Your Warlord may take one additional Psychic Power from the *Sanctic* or *Librarius* Discipline.
 
 ## **Relics**
 * **Domina Liber Daemonica** - Choose an additional Psychic Power from the *Sanctic* Discipline. In addition, Daemons within 6" of a model carrying this relic must subtract 1 from their Leadership.
