@@ -4,7 +4,7 @@
 * **Relentless** - Terminators with this rule ignores the penalty for moving and firing Heavy weapons.
 
 ## **General - Grey Knights**
-* Lord Kaldor Draigo, Grand Master Voldus, Librarians and Grand Masters have studied from the best of the Imperium and may also pick Psychic Powers from the *Librarius* Discipline.
+* **Lord Kaldor Draigo**, **Grand Master Voldus**, **Librarians** and **Grand Masters** have studied from the best of the Imperium and may also pick Psychic Powers from the *Librarius* Discipline.
 * **Rites of Banishment** - The *Smite* and *Psybolt* Psychic Powers have a range of 12". If the target of *Smite* or *Psybolt* is a Daemon, it does a minimum of 3 Mortal Wounds, even if the Power normally does less damage.
 * All **Grey Knights Psykers** other than Lord Kaldor Draigo, Grand Master Voldus, Librarians and Grand Masters lose the *Smite* Psychic Power and gain the *Psybolt* Psychic Power.
 * **Castellan Crowe** and **Purifiers** lose *Smite* and *Purifying Flames* and instead gains the *Cleansing Flame* Psychic Power instead. *Cleansing Flame*: This power has a Warp Charge of 5. Pick an enemy unit within 9" and deal D3 Mortal Wounds to it. If the casting roll is an 11+, you may deal and additional d3 Mortal Wounds to a second target within range or the same target.
@@ -36,7 +36,8 @@
 * **Teleportation Boost** (1-2CP) - At the end of one of your movement phases, pick a unit of Grey Knights Interceptors and choose one of the following:
 	- (1CP) If they have used their *Teleport Shunt* in a previous turn, they may use it again.
 	- (2CP) Pick a Grey Knights unit in Tactical Reserve and set that unit up wholly within 6" of the **Interceptor Justicar**, more than 9" away from enemy units. That unit may then immediately move D6". If the Interceptor unit does not contain a Justicar, this portion of the stratagem may not be chosen.
-* **Purify the Unclean** (1CP) - Incinerators become Range 12" and Heavy Incinerators become Range 18" for the turn.
+* **Truesilver Armor** (1CP) - When a Grey Knights unit is dealt a Mortal Wound, for that Mortal Wound and all other Mortal Wounds for the rest of the Phase, roll a D6. On a 5+, ignore that Mortal Wound.
+* *New* **Purify the Unclean** (1CP) - Pick a Grey Knights unit that was set up on the battlefield this turn from Tactical Reserves or *Gate of Infinity*. For that unit, Incinerators become Range 12" and Heavy Incinerators become Range 18" for the turn.
 
 ## **Weapons**
 * **Psycannon** - Terminator variant now costs the same as normal (14pts). In addition, on a wound roll of a 6+, increase that attack's AP by 1 (e.g. AP-1 becomes AP-2).
